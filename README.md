@@ -1,1 +1,1 @@
-Auto-layout-for-iPhones
+Aoto layout for Iphones
